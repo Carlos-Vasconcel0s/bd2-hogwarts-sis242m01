@@ -9,7 +9,7 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
+| Carlos Vasconselos | 2385765 | Carlos-Vasconcel0s |
 
 ## O cenário
 
